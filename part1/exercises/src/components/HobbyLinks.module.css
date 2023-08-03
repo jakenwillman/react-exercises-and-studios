@@ -1,0 +1,31 @@
+.hobbyTitle {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    color:rgb(119, 17, 65)
+}
+
+.drumPhoto {
+    width: auto;
+}
+
+a {
+    color:#0004ff;
+    font-weight: bold; 
+    display: block;
+    text-decoration: underline;
+  }
+  
+ 
+  a:hover {
+    color: #ff4500; 
+    text-decoration: underline; 
+  }
+
+  .hobbyTitle {
+    font-size: 26px;
+  }
+
+  .hobbyDiv {
+    padding: 2rem;
+  }

@@ -1,0 +1,15 @@
+h2 {
+    color:rgb(90, 38, 0);
+    letter-spacing: px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.booksDiv {
+    border-style: solid;
+    border-radius: 1rem;
+    border-width: 5px;
+    border-color:darkslateblue; 
+    padding: 1rem;
+    background-color: coral;
+}

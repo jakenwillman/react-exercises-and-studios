@@ -1,7 +1,15 @@
 .movieText {
-   color: black;
+   color: cyan;
+   font-size: 24px;
+   text-align: left;
 }
 
 .movieHeading {
-   color: black;
+   margin: auto;
+   padding: 1rem;
+   text-align: left;
+   color: purple;
+   font-size: 26px;
+   font-weight: bold;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
