@@ -1,4 +1,9 @@
 function RecipeImage() {
+  const recipeImage = recipedata.map((data) => (
+    <div>key={data.name}
+      <img src = ""></img>
+    </div>
+  )
    return;
  }
  
