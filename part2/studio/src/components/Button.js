@@ -4,8 +4,7 @@ import ClickedButton from "./ClickedButton";
 
 
 function Button(props) {
-  const saveButton = props.saveButton;
-   return saveButton ? <SaveButton /> : <ClickedButton />;
+   return props.SaveButton ? <SaveButton /> : <ClickedButton />
  }
  
  export default Button;

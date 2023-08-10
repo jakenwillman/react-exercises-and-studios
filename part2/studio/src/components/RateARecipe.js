@@ -6,7 +6,9 @@ function RateARecipe(props) {
     return <h3>{stars[props.rating - 1]}</h3>
   }
   
-  return props.rating <= 5 ? <GiveRating /> : null;
+  const isValidNum = props.rating > 0 && props.rating <6;
+
+  return isValidNum ? <GiveRating /> : null;
 }
 
 export default RateARecipe;

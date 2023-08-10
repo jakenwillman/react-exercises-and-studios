@@ -1,24 +1,14 @@
 import recipedata from "./recipe.json";
-import "./styling.css";
 
 function IngredientList() {
-   return (
-    <div>
-      <h3>Ingredients</h3>
-      {recipedata.map((data) => {
-        return (
-          <div key={data.name}>
-            {data.ingredients.map((ingredients, index) => {
-              return <li key={index}>{ingredients}</li>
-            }
-            )}
-            </div>
-        )
-      }
-      )}
-    </div>
-   )
- }
+
+  const ingredientsListItems = recipedata.map(recipe => {
+    return recipe.ingredients.map((ingredients, index) => {
+      return <li key={index}>{ingredients}</li>;
+    });
+  });
+   return <div>{ingredientsListItems}</div>
+}
  
  export default IngredientList;
  
