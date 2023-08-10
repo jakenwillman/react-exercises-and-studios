@@ -1,0 +1,29 @@
+{
+    "gear": [
+    {
+        "title": "American Classic 5B Drumsticks",
+        "brand": "Vic Firth",
+        "image": "https://vicfirth.com/cdn/shop/products/5b-lifestyle-01_576x.png?v=1680031998",
+        "alt": "A pair of Vic Firth drumsticks"
+    },
+    {
+        "title": "5-Piece - PDP Concept Maple",
+        "brand": "DW (Drum Workshop)",
+        "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t31.18172-8/10708499_858075697543634_8607606704909160783_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=19026a&_nc_ohc=fPIFtsH0c6sAX8Zsj0K&_nc_ht=scontent-ord5-2.xx&oh=00_AfCFuY5t-W1DWtPpGjOEc7_cwjJ-GwhDqlD3KenV48I0KA&oe=64FB8B7E",
+        "alt": "A photo of my 5-piece drumkit"
+    },
+    {
+        "title": "Meinl Cymbals",
+        "brand": "Meinl",
+        "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t1.18169-9/11006363_952968281387708_7677243047470289325_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=19026a&_nc_ohc=klHFjVnZxMgAX-Ji8IQ&_nc_ht=scontent-ord5-1.xx&oh=00_AfBcp0SRLjJ33vZjgappp3HjLBqiU-c03lsVba3taDttQw&oe=64FBB7C5",
+        "alt": "An overview of all of the cymbals I use"
+    },
+    {
+        "title": "Tama Speed Cobra Double Pedals",
+        "brand": "TAMA",
+        "image": "https://www.tama.com/common/product_artist_file/file/pen_HP910LWN_Header.jpg",
+        "alt": "A photo of the TAMA Speed Cobra Double Pedals"
+    }
+
+]
+}
